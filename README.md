@@ -1,0 +1,2 @@
+# gto-spot-assistant
+
